@@ -1,0 +1,3 @@
+1;Tokyo Department Store; 0 
+2;Seibu Department Store;21-1 Udagawa-cho, Shibuya-ku, Tokyo
+3;National Azabu;106-0047 Minato-ku, Minamisabu 4-5-2
